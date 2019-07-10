@@ -11,3 +11,6 @@
 - `git config --global user.email '你的邮箱'`
 
 - `git config --global user.name '你的GitHub用户名'`
+
+
+[git怎么上传文件夹](https://zhidao.baidu.com/question/309158152764892844.html)
